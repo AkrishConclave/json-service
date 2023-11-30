@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Класс JsonService предоставляет сервис для взаимодействия с внешним JSON API
+ *
+ * @see https://jsonplaceholder.typicode.com/
+ */
+
 class JsonService
 {
     private $apiUrl;
